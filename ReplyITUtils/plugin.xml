@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+
+    <label lang="de">ReplyIT Utils</label>
+    <label lang="en">ReplyIT Utils</label>
+    <label lang="it">ReplyIT Utils</label>
+
+    <version>1.0.0</version>
+    <copyright>(c) PORTALTECH REPLY GmbH</copyright>
+    <link>http://www.portaltechreply.de</link>
+    <author>PORTALTECH REPLY GmbH</author>
+    <compatibility minVersion="5.3.0"/>
+
+    <changelog version="1.0.0">
+        <changes lang="de">Erstveröffentlichung</changes>
+        <changes lang="en">First Release</changes>
+        <changes lang="it">Primo rilascio</changes>
+    </changelog>
+</plugin>
